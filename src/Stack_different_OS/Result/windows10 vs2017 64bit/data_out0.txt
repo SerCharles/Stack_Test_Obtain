@@ -1,0 +1,1596 @@
+The 1 th set
+The memory for this set is 1632 B
+Having used stack for 0.0015564 MB
+------------------------------------------------
+The 2 th set
+The memory for this set is 4704 B
+Having used stack for 0.00604248 MB
+------------------------------------------------
+The 3 th set
+The memory for this set is 1328 B
+Having used stack for 0.00730896 MB
+------------------------------------------------
+The 4 th set
+The memory for this set is 1632 B
+Having used stack for 0.00886536 MB
+------------------------------------------------
+The 5 th set
+The memory for this set is 4704 B
+Having used stack for 0.0133514 MB
+------------------------------------------------
+The 6 th set
+The memory for this set is 1328 B
+Having used stack for 0.0146179 MB
+------------------------------------------------
+The 7 th set
+The memory for this set is 1632 B
+Having used stack for 0.0161743 MB
+------------------------------------------------
+The 8 th set
+The memory for this set is 4704 B
+Having used stack for 0.0206604 MB
+------------------------------------------------
+The 9 th set
+The memory for this set is 1328 B
+Having used stack for 0.0219269 MB
+------------------------------------------------
+The 10 th set
+The memory for this set is 1632 B
+Having used stack for 0.0234833 MB
+------------------------------------------------
+The 11 th set
+The memory for this set is 4704 B
+Having used stack for 0.0279694 MB
+------------------------------------------------
+The 12 th set
+The memory for this set is 1328 B
+Having used stack for 0.0292358 MB
+------------------------------------------------
+The 13 th set
+The memory for this set is 1632 B
+Having used stack for 0.0307922 MB
+------------------------------------------------
+The 14 th set
+The memory for this set is 4704 B
+Having used stack for 0.0352783 MB
+------------------------------------------------
+The 15 th set
+The memory for this set is 1328 B
+Having used stack for 0.0365448 MB
+------------------------------------------------
+The 16 th set
+The memory for this set is 1632 B
+Having used stack for 0.0381012 MB
+------------------------------------------------
+The 17 th set
+The memory for this set is 4704 B
+Having used stack for 0.0425873 MB
+------------------------------------------------
+The 18 th set
+The memory for this set is 1328 B
+Having used stack for 0.0438538 MB
+------------------------------------------------
+The 19 th set
+The memory for this set is 1632 B
+Having used stack for 0.0454102 MB
+------------------------------------------------
+The 20 th set
+The memory for this set is 4704 B
+Having used stack for 0.0498962 MB
+------------------------------------------------
+The 21 th set
+The memory for this set is 1328 B
+Having used stack for 0.0511627 MB
+------------------------------------------------
+The 22 th set
+The memory for this set is 1632 B
+Having used stack for 0.0527191 MB
+------------------------------------------------
+The 23 th set
+The memory for this set is 4704 B
+Having used stack for 0.0572052 MB
+------------------------------------------------
+The 24 th set
+The memory for this set is 1328 B
+Having used stack for 0.0584717 MB
+------------------------------------------------
+The 25 th set
+The memory for this set is 1632 B
+Having used stack for 0.0600281 MB
+------------------------------------------------
+The 26 th set
+The memory for this set is 4704 B
+Having used stack for 0.0645142 MB
+------------------------------------------------
+The 27 th set
+The memory for this set is 1328 B
+Having used stack for 0.0657806 MB
+------------------------------------------------
+The 28 th set
+The memory for this set is 1632 B
+Having used stack for 0.067337 MB
+------------------------------------------------
+The 29 th set
+The memory for this set is 4704 B
+Having used stack for 0.0718231 MB
+------------------------------------------------
+The 30 th set
+The memory for this set is 1328 B
+Having used stack for 0.0730896 MB
+------------------------------------------------
+The 31 th set
+The memory for this set is 1632 B
+Having used stack for 0.074646 MB
+------------------------------------------------
+The 32 th set
+The memory for this set is 4704 B
+Having used stack for 0.0791321 MB
+------------------------------------------------
+The 33 th set
+The memory for this set is 1328 B
+Having used stack for 0.0803986 MB
+------------------------------------------------
+The 34 th set
+The memory for this set is 1632 B
+Having used stack for 0.081955 MB
+------------------------------------------------
+The 35 th set
+The memory for this set is 4704 B
+Having used stack for 0.086441 MB
+------------------------------------------------
+The 36 th set
+The memory for this set is 1328 B
+Having used stack for 0.0877075 MB
+------------------------------------------------
+The 37 th set
+The memory for this set is 1632 B
+Having used stack for 0.0892639 MB
+------------------------------------------------
+The 38 th set
+The memory for this set is 4704 B
+Having used stack for 0.09375 MB
+------------------------------------------------
+The 39 th set
+The memory for this set is 1328 B
+Having used stack for 0.0950165 MB
+------------------------------------------------
+The 40 th set
+The memory for this set is 1632 B
+Having used stack for 0.0965729 MB
+------------------------------------------------
+The 41 th set
+The memory for this set is 4704 B
+Having used stack for 0.101059 MB
+------------------------------------------------
+The 42 th set
+The memory for this set is 1328 B
+Having used stack for 0.102325 MB
+------------------------------------------------
+The 43 th set
+The memory for this set is 1632 B
+Having used stack for 0.103882 MB
+------------------------------------------------
+The 44 th set
+The memory for this set is 4704 B
+Having used stack for 0.108368 MB
+------------------------------------------------
+The 45 th set
+The memory for this set is 1328 B
+Having used stack for 0.109634 MB
+------------------------------------------------
+The 46 th set
+The memory for this set is 1632 B
+Having used stack for 0.111191 MB
+------------------------------------------------
+The 47 th set
+The memory for this set is 4704 B
+Having used stack for 0.115677 MB
+------------------------------------------------
+The 48 th set
+The memory for this set is 1328 B
+Having used stack for 0.116943 MB
+------------------------------------------------
+The 49 th set
+The memory for this set is 1632 B
+Having used stack for 0.1185 MB
+------------------------------------------------
+The 50 th set
+The memory for this set is 4704 B
+Having used stack for 0.122986 MB
+------------------------------------------------
+The 51 th set
+The memory for this set is 1328 B
+Having used stack for 0.124252 MB
+------------------------------------------------
+The 52 th set
+The memory for this set is 1632 B
+Having used stack for 0.125809 MB
+------------------------------------------------
+The 53 th set
+The memory for this set is 4704 B
+Having used stack for 0.130295 MB
+------------------------------------------------
+The 54 th set
+The memory for this set is 1328 B
+Having used stack for 0.131561 MB
+------------------------------------------------
+The 55 th set
+The memory for this set is 1632 B
+Having used stack for 0.133118 MB
+------------------------------------------------
+The 56 th set
+The memory for this set is 4704 B
+Having used stack for 0.137604 MB
+------------------------------------------------
+The 57 th set
+The memory for this set is 1328 B
+Having used stack for 0.13887 MB
+------------------------------------------------
+The 58 th set
+The memory for this set is 1632 B
+Having used stack for 0.140427 MB
+------------------------------------------------
+The 59 th set
+The memory for this set is 4704 B
+Having used stack for 0.144913 MB
+------------------------------------------------
+The 60 th set
+The memory for this set is 1328 B
+Having used stack for 0.146179 MB
+------------------------------------------------
+The 61 th set
+The memory for this set is 1632 B
+Having used stack for 0.147736 MB
+------------------------------------------------
+The 62 th set
+The memory for this set is 4704 B
+Having used stack for 0.152222 MB
+------------------------------------------------
+The 63 th set
+The memory for this set is 1328 B
+Having used stack for 0.153488 MB
+------------------------------------------------
+The 64 th set
+The memory for this set is 1632 B
+Having used stack for 0.155045 MB
+------------------------------------------------
+The 65 th set
+The memory for this set is 4704 B
+Having used stack for 0.159531 MB
+------------------------------------------------
+The 66 th set
+The memory for this set is 1328 B
+Having used stack for 0.160797 MB
+------------------------------------------------
+The 67 th set
+The memory for this set is 1632 B
+Having used stack for 0.162354 MB
+------------------------------------------------
+The 68 th set
+The memory for this set is 4704 B
+Having used stack for 0.16684 MB
+------------------------------------------------
+The 69 th set
+The memory for this set is 1328 B
+Having used stack for 0.168106 MB
+------------------------------------------------
+The 70 th set
+The memory for this set is 1632 B
+Having used stack for 0.169662 MB
+------------------------------------------------
+The 71 th set
+The memory for this set is 4704 B
+Having used stack for 0.174149 MB
+------------------------------------------------
+The 72 th set
+The memory for this set is 1328 B
+Having used stack for 0.175415 MB
+------------------------------------------------
+The 73 th set
+The memory for this set is 1632 B
+Having used stack for 0.176971 MB
+------------------------------------------------
+The 74 th set
+The memory for this set is 4704 B
+Having used stack for 0.181458 MB
+------------------------------------------------
+The 75 th set
+The memory for this set is 1328 B
+Having used stack for 0.182724 MB
+------------------------------------------------
+The 76 th set
+The memory for this set is 1632 B
+Having used stack for 0.18428 MB
+------------------------------------------------
+The 77 th set
+The memory for this set is 4704 B
+Having used stack for 0.188766 MB
+------------------------------------------------
+The 78 th set
+The memory for this set is 1328 B
+Having used stack for 0.190033 MB
+------------------------------------------------
+The 79 th set
+The memory for this set is 1632 B
+Having used stack for 0.191589 MB
+------------------------------------------------
+The 80 th set
+The memory for this set is 4704 B
+Having used stack for 0.196075 MB
+------------------------------------------------
+The 81 th set
+The memory for this set is 1328 B
+Having used stack for 0.197342 MB
+------------------------------------------------
+The 82 th set
+The memory for this set is 1632 B
+Having used stack for 0.198898 MB
+------------------------------------------------
+The 83 th set
+The memory for this set is 4704 B
+Having used stack for 0.203384 MB
+------------------------------------------------
+The 84 th set
+The memory for this set is 1328 B
+Having used stack for 0.204651 MB
+------------------------------------------------
+The 85 th set
+The memory for this set is 1632 B
+Having used stack for 0.206207 MB
+------------------------------------------------
+The 86 th set
+The memory for this set is 4704 B
+Having used stack for 0.210693 MB
+------------------------------------------------
+The 87 th set
+The memory for this set is 1328 B
+Having used stack for 0.21196 MB
+------------------------------------------------
+The 88 th set
+The memory for this set is 1632 B
+Having used stack for 0.213516 MB
+------------------------------------------------
+The 89 th set
+The memory for this set is 4704 B
+Having used stack for 0.218002 MB
+------------------------------------------------
+The 90 th set
+The memory for this set is 1328 B
+Having used stack for 0.219269 MB
+------------------------------------------------
+The 91 th set
+The memory for this set is 1632 B
+Having used stack for 0.220825 MB
+------------------------------------------------
+The 92 th set
+The memory for this set is 4704 B
+Having used stack for 0.225311 MB
+------------------------------------------------
+The 93 th set
+The memory for this set is 1328 B
+Having used stack for 0.226578 MB
+------------------------------------------------
+The 94 th set
+The memory for this set is 1632 B
+Having used stack for 0.228134 MB
+------------------------------------------------
+The 95 th set
+The memory for this set is 4704 B
+Having used stack for 0.23262 MB
+------------------------------------------------
+The 96 th set
+The memory for this set is 1328 B
+Having used stack for 0.233887 MB
+------------------------------------------------
+The 97 th set
+The memory for this set is 1632 B
+Having used stack for 0.235443 MB
+------------------------------------------------
+The 98 th set
+The memory for this set is 4704 B
+Having used stack for 0.239929 MB
+------------------------------------------------
+The 99 th set
+The memory for this set is 1328 B
+Having used stack for 0.241196 MB
+------------------------------------------------
+The 100 th set
+The memory for this set is 1632 B
+Having used stack for 0.242752 MB
+------------------------------------------------
+The 101 th set
+The memory for this set is 4704 B
+Having used stack for 0.247238 MB
+------------------------------------------------
+The 102 th set
+The memory for this set is 1328 B
+Having used stack for 0.248505 MB
+------------------------------------------------
+The 103 th set
+The memory for this set is 1632 B
+Having used stack for 0.250061 MB
+------------------------------------------------
+The 104 th set
+The memory for this set is 4704 B
+Having used stack for 0.254547 MB
+------------------------------------------------
+The 105 th set
+The memory for this set is 1328 B
+Having used stack for 0.255814 MB
+------------------------------------------------
+The 106 th set
+The memory for this set is 1632 B
+Having used stack for 0.25737 MB
+------------------------------------------------
+The 107 th set
+The memory for this set is 4704 B
+Having used stack for 0.261856 MB
+------------------------------------------------
+The 108 th set
+The memory for this set is 1328 B
+Having used stack for 0.263123 MB
+------------------------------------------------
+The 109 th set
+The memory for this set is 1632 B
+Having used stack for 0.264679 MB
+------------------------------------------------
+The 110 th set
+The memory for this set is 4704 B
+Having used stack for 0.269165 MB
+------------------------------------------------
+The 111 th set
+The memory for this set is 1328 B
+Having used stack for 0.270432 MB
+------------------------------------------------
+The 112 th set
+The memory for this set is 1632 B
+Having used stack for 0.271988 MB
+------------------------------------------------
+The 113 th set
+The memory for this set is 4704 B
+Having used stack for 0.276474 MB
+------------------------------------------------
+The 114 th set
+The memory for this set is 1328 B
+Having used stack for 0.27774 MB
+------------------------------------------------
+The 115 th set
+The memory for this set is 1632 B
+Having used stack for 0.279297 MB
+------------------------------------------------
+The 116 th set
+The memory for this set is 4704 B
+Having used stack for 0.283783 MB
+------------------------------------------------
+The 117 th set
+The memory for this set is 1328 B
+Having used stack for 0.285049 MB
+------------------------------------------------
+The 118 th set
+The memory for this set is 1632 B
+Having used stack for 0.286606 MB
+------------------------------------------------
+The 119 th set
+The memory for this set is 4704 B
+Having used stack for 0.291092 MB
+------------------------------------------------
+The 120 th set
+The memory for this set is 1328 B
+Having used stack for 0.292358 MB
+------------------------------------------------
+The 121 th set
+The memory for this set is 1632 B
+Having used stack for 0.293915 MB
+------------------------------------------------
+The 122 th set
+The memory for this set is 4704 B
+Having used stack for 0.298401 MB
+------------------------------------------------
+The 123 th set
+The memory for this set is 1328 B
+Having used stack for 0.299667 MB
+------------------------------------------------
+The 124 th set
+The memory for this set is 1632 B
+Having used stack for 0.301224 MB
+------------------------------------------------
+The 125 th set
+The memory for this set is 4704 B
+Having used stack for 0.30571 MB
+------------------------------------------------
+The 126 th set
+The memory for this set is 1328 B
+Having used stack for 0.306976 MB
+------------------------------------------------
+The 127 th set
+The memory for this set is 1632 B
+Having used stack for 0.308533 MB
+------------------------------------------------
+The 128 th set
+The memory for this set is 4704 B
+Having used stack for 0.313019 MB
+------------------------------------------------
+The 129 th set
+The memory for this set is 1328 B
+Having used stack for 0.314285 MB
+------------------------------------------------
+The 130 th set
+The memory for this set is 1632 B
+Having used stack for 0.315842 MB
+------------------------------------------------
+The 131 th set
+The memory for this set is 4704 B
+Having used stack for 0.320328 MB
+------------------------------------------------
+The 132 th set
+The memory for this set is 1328 B
+Having used stack for 0.321594 MB
+------------------------------------------------
+The 133 th set
+The memory for this set is 1632 B
+Having used stack for 0.323151 MB
+------------------------------------------------
+The 134 th set
+The memory for this set is 4704 B
+Having used stack for 0.327637 MB
+------------------------------------------------
+The 135 th set
+The memory for this set is 1328 B
+Having used stack for 0.328903 MB
+------------------------------------------------
+The 136 th set
+The memory for this set is 1632 B
+Having used stack for 0.33046 MB
+------------------------------------------------
+The 137 th set
+The memory for this set is 4704 B
+Having used stack for 0.334946 MB
+------------------------------------------------
+The 138 th set
+The memory for this set is 1328 B
+Having used stack for 0.336212 MB
+------------------------------------------------
+The 139 th set
+The memory for this set is 1632 B
+Having used stack for 0.337769 MB
+------------------------------------------------
+The 140 th set
+The memory for this set is 4704 B
+Having used stack for 0.342255 MB
+------------------------------------------------
+The 141 th set
+The memory for this set is 1328 B
+Having used stack for 0.343521 MB
+------------------------------------------------
+The 142 th set
+The memory for this set is 1632 B
+Having used stack for 0.345078 MB
+------------------------------------------------
+The 143 th set
+The memory for this set is 4704 B
+Having used stack for 0.349564 MB
+------------------------------------------------
+The 144 th set
+The memory for this set is 1328 B
+Having used stack for 0.35083 MB
+------------------------------------------------
+The 145 th set
+The memory for this set is 1632 B
+Having used stack for 0.352386 MB
+------------------------------------------------
+The 146 th set
+The memory for this set is 4704 B
+Having used stack for 0.356873 MB
+------------------------------------------------
+The 147 th set
+The memory for this set is 1328 B
+Having used stack for 0.358139 MB
+------------------------------------------------
+The 148 th set
+The memory for this set is 1632 B
+Having used stack for 0.359695 MB
+------------------------------------------------
+The 149 th set
+The memory for this set is 4704 B
+Having used stack for 0.364182 MB
+------------------------------------------------
+The 150 th set
+The memory for this set is 1328 B
+Having used stack for 0.365448 MB
+------------------------------------------------
+The 151 th set
+The memory for this set is 1632 B
+Having used stack for 0.367004 MB
+------------------------------------------------
+The 152 th set
+The memory for this set is 4704 B
+Having used stack for 0.37149 MB
+------------------------------------------------
+The 153 th set
+The memory for this set is 1328 B
+Having used stack for 0.372757 MB
+------------------------------------------------
+The 154 th set
+The memory for this set is 1632 B
+Having used stack for 0.374313 MB
+------------------------------------------------
+The 155 th set
+The memory for this set is 4704 B
+Having used stack for 0.378799 MB
+------------------------------------------------
+The 156 th set
+The memory for this set is 1328 B
+Having used stack for 0.380066 MB
+------------------------------------------------
+The 157 th set
+The memory for this set is 1632 B
+Having used stack for 0.381622 MB
+------------------------------------------------
+The 158 th set
+The memory for this set is 4704 B
+Having used stack for 0.386108 MB
+------------------------------------------------
+The 159 th set
+The memory for this set is 1328 B
+Having used stack for 0.387375 MB
+------------------------------------------------
+The 160 th set
+The memory for this set is 1632 B
+Having used stack for 0.388931 MB
+------------------------------------------------
+The 161 th set
+The memory for this set is 4704 B
+Having used stack for 0.393417 MB
+------------------------------------------------
+The 162 th set
+The memory for this set is 1328 B
+Having used stack for 0.394684 MB
+------------------------------------------------
+The 163 th set
+The memory for this set is 1632 B
+Having used stack for 0.39624 MB
+------------------------------------------------
+The 164 th set
+The memory for this set is 4704 B
+Having used stack for 0.400726 MB
+------------------------------------------------
+The 165 th set
+The memory for this set is 1328 B
+Having used stack for 0.401993 MB
+------------------------------------------------
+The 166 th set
+The memory for this set is 1632 B
+Having used stack for 0.403549 MB
+------------------------------------------------
+The 167 th set
+The memory for this set is 4704 B
+Having used stack for 0.408035 MB
+------------------------------------------------
+The 168 th set
+The memory for this set is 1328 B
+Having used stack for 0.409302 MB
+------------------------------------------------
+The 169 th set
+The memory for this set is 1632 B
+Having used stack for 0.410858 MB
+------------------------------------------------
+The 170 th set
+The memory for this set is 4704 B
+Having used stack for 0.415344 MB
+------------------------------------------------
+The 171 th set
+The memory for this set is 1328 B
+Having used stack for 0.416611 MB
+------------------------------------------------
+The 172 th set
+The memory for this set is 1632 B
+Having used stack for 0.418167 MB
+------------------------------------------------
+The 173 th set
+The memory for this set is 4704 B
+Having used stack for 0.422653 MB
+------------------------------------------------
+The 174 th set
+The memory for this set is 1328 B
+Having used stack for 0.42392 MB
+------------------------------------------------
+The 175 th set
+The memory for this set is 1632 B
+Having used stack for 0.425476 MB
+------------------------------------------------
+The 176 th set
+The memory for this set is 4704 B
+Having used stack for 0.429962 MB
+------------------------------------------------
+The 177 th set
+The memory for this set is 1328 B
+Having used stack for 0.431229 MB
+------------------------------------------------
+The 178 th set
+The memory for this set is 1632 B
+Having used stack for 0.432785 MB
+------------------------------------------------
+The 179 th set
+The memory for this set is 4704 B
+Having used stack for 0.437271 MB
+------------------------------------------------
+The 180 th set
+The memory for this set is 1328 B
+Having used stack for 0.438538 MB
+------------------------------------------------
+The 181 th set
+The memory for this set is 1632 B
+Having used stack for 0.440094 MB
+------------------------------------------------
+The 182 th set
+The memory for this set is 4704 B
+Having used stack for 0.44458 MB
+------------------------------------------------
+The 183 th set
+The memory for this set is 1328 B
+Having used stack for 0.445847 MB
+------------------------------------------------
+The 184 th set
+The memory for this set is 1632 B
+Having used stack for 0.447403 MB
+------------------------------------------------
+The 185 th set
+The memory for this set is 4704 B
+Having used stack for 0.451889 MB
+------------------------------------------------
+The 186 th set
+The memory for this set is 1328 B
+Having used stack for 0.453156 MB
+------------------------------------------------
+The 187 th set
+The memory for this set is 1632 B
+Having used stack for 0.454712 MB
+------------------------------------------------
+The 188 th set
+The memory for this set is 4704 B
+Having used stack for 0.459198 MB
+------------------------------------------------
+The 189 th set
+The memory for this set is 1328 B
+Having used stack for 0.460464 MB
+------------------------------------------------
+The 190 th set
+The memory for this set is 1632 B
+Having used stack for 0.462021 MB
+------------------------------------------------
+The 191 th set
+The memory for this set is 4704 B
+Having used stack for 0.466507 MB
+------------------------------------------------
+The 192 th set
+The memory for this set is 1328 B
+Having used stack for 0.467773 MB
+------------------------------------------------
+The 193 th set
+The memory for this set is 1632 B
+Having used stack for 0.46933 MB
+------------------------------------------------
+The 194 th set
+The memory for this set is 4704 B
+Having used stack for 0.473816 MB
+------------------------------------------------
+The 195 th set
+The memory for this set is 1328 B
+Having used stack for 0.475082 MB
+------------------------------------------------
+The 196 th set
+The memory for this set is 1632 B
+Having used stack for 0.476639 MB
+------------------------------------------------
+The 197 th set
+The memory for this set is 4704 B
+Having used stack for 0.481125 MB
+------------------------------------------------
+The 198 th set
+The memory for this set is 1328 B
+Having used stack for 0.482391 MB
+------------------------------------------------
+The 199 th set
+The memory for this set is 1632 B
+Having used stack for 0.483948 MB
+------------------------------------------------
+The 200 th set
+The memory for this set is 4704 B
+Having used stack for 0.488434 MB
+------------------------------------------------
+The 201 th set
+The memory for this set is 1328 B
+Having used stack for 0.4897 MB
+------------------------------------------------
+The 202 th set
+The memory for this set is 1632 B
+Having used stack for 0.491257 MB
+------------------------------------------------
+The 203 th set
+The memory for this set is 4704 B
+Having used stack for 0.495743 MB
+------------------------------------------------
+The 204 th set
+The memory for this set is 1328 B
+Having used stack for 0.497009 MB
+------------------------------------------------
+The 205 th set
+The memory for this set is 1632 B
+Having used stack for 0.498566 MB
+------------------------------------------------
+The 206 th set
+The memory for this set is 4704 B
+Having used stack for 0.503052 MB
+------------------------------------------------
+The 207 th set
+The memory for this set is 1328 B
+Having used stack for 0.504318 MB
+------------------------------------------------
+The 208 th set
+The memory for this set is 1632 B
+Having used stack for 0.505875 MB
+------------------------------------------------
+The 209 th set
+The memory for this set is 4704 B
+Having used stack for 0.510361 MB
+------------------------------------------------
+The 210 th set
+The memory for this set is 1328 B
+Having used stack for 0.511627 MB
+------------------------------------------------
+The 211 th set
+The memory for this set is 1632 B
+Having used stack for 0.513184 MB
+------------------------------------------------
+The 212 th set
+The memory for this set is 4704 B
+Having used stack for 0.51767 MB
+------------------------------------------------
+The 213 th set
+The memory for this set is 1328 B
+Having used stack for 0.518936 MB
+------------------------------------------------
+The 214 th set
+The memory for this set is 1632 B
+Having used stack for 0.520493 MB
+------------------------------------------------
+The 215 th set
+The memory for this set is 4704 B
+Having used stack for 0.524979 MB
+------------------------------------------------
+The 216 th set
+The memory for this set is 1328 B
+Having used stack for 0.526245 MB
+------------------------------------------------
+The 217 th set
+The memory for this set is 1632 B
+Having used stack for 0.527802 MB
+------------------------------------------------
+The 218 th set
+The memory for this set is 4704 B
+Having used stack for 0.532288 MB
+------------------------------------------------
+The 219 th set
+The memory for this set is 1328 B
+Having used stack for 0.533554 MB
+------------------------------------------------
+The 220 th set
+The memory for this set is 1632 B
+Having used stack for 0.53511 MB
+------------------------------------------------
+The 221 th set
+The memory for this set is 4704 B
+Having used stack for 0.539597 MB
+------------------------------------------------
+The 222 th set
+The memory for this set is 1328 B
+Having used stack for 0.540863 MB
+------------------------------------------------
+The 223 th set
+The memory for this set is 1632 B
+Having used stack for 0.542419 MB
+------------------------------------------------
+The 224 th set
+The memory for this set is 4704 B
+Having used stack for 0.546906 MB
+------------------------------------------------
+The 225 th set
+The memory for this set is 1328 B
+Having used stack for 0.548172 MB
+------------------------------------------------
+The 226 th set
+The memory for this set is 1632 B
+Having used stack for 0.549728 MB
+------------------------------------------------
+The 227 th set
+The memory for this set is 4704 B
+Having used stack for 0.554214 MB
+------------------------------------------------
+The 228 th set
+The memory for this set is 1328 B
+Having used stack for 0.555481 MB
+------------------------------------------------
+The 229 th set
+The memory for this set is 1632 B
+Having used stack for 0.557037 MB
+------------------------------------------------
+The 230 th set
+The memory for this set is 4704 B
+Having used stack for 0.561523 MB
+------------------------------------------------
+The 231 th set
+The memory for this set is 1328 B
+Having used stack for 0.56279 MB
+------------------------------------------------
+The 232 th set
+The memory for this set is 1632 B
+Having used stack for 0.564346 MB
+------------------------------------------------
+The 233 th set
+The memory for this set is 4704 B
+Having used stack for 0.568832 MB
+------------------------------------------------
+The 234 th set
+The memory for this set is 1328 B
+Having used stack for 0.570099 MB
+------------------------------------------------
+The 235 th set
+The memory for this set is 1632 B
+Having used stack for 0.571655 MB
+------------------------------------------------
+The 236 th set
+The memory for this set is 4704 B
+Having used stack for 0.576141 MB
+------------------------------------------------
+The 237 th set
+The memory for this set is 1328 B
+Having used stack for 0.577408 MB
+------------------------------------------------
+The 238 th set
+The memory for this set is 1632 B
+Having used stack for 0.578964 MB
+------------------------------------------------
+The 239 th set
+The memory for this set is 4704 B
+Having used stack for 0.58345 MB
+------------------------------------------------
+The 240 th set
+The memory for this set is 1328 B
+Having used stack for 0.584717 MB
+------------------------------------------------
+The 241 th set
+The memory for this set is 1632 B
+Having used stack for 0.586273 MB
+------------------------------------------------
+The 242 th set
+The memory for this set is 4704 B
+Having used stack for 0.590759 MB
+------------------------------------------------
+The 243 th set
+The memory for this set is 1328 B
+Having used stack for 0.592026 MB
+------------------------------------------------
+The 244 th set
+The memory for this set is 1632 B
+Having used stack for 0.593582 MB
+------------------------------------------------
+The 245 th set
+The memory for this set is 4704 B
+Having used stack for 0.598068 MB
+------------------------------------------------
+The 246 th set
+The memory for this set is 1328 B
+Having used stack for 0.599335 MB
+------------------------------------------------
+The 247 th set
+The memory for this set is 1632 B
+Having used stack for 0.600891 MB
+------------------------------------------------
+The 248 th set
+The memory for this set is 4704 B
+Having used stack for 0.605377 MB
+------------------------------------------------
+The 249 th set
+The memory for this set is 1328 B
+Having used stack for 0.606644 MB
+------------------------------------------------
+The 250 th set
+The memory for this set is 1632 B
+Having used stack for 0.6082 MB
+------------------------------------------------
+The 251 th set
+The memory for this set is 4704 B
+Having used stack for 0.612686 MB
+------------------------------------------------
+The 252 th set
+The memory for this set is 1328 B
+Having used stack for 0.613953 MB
+------------------------------------------------
+The 253 th set
+The memory for this set is 1632 B
+Having used stack for 0.615509 MB
+------------------------------------------------
+The 254 th set
+The memory for this set is 4704 B
+Having used stack for 0.619995 MB
+------------------------------------------------
+The 255 th set
+The memory for this set is 1328 B
+Having used stack for 0.621262 MB
+------------------------------------------------
+The 256 th set
+The memory for this set is 1632 B
+Having used stack for 0.622818 MB
+------------------------------------------------
+The 257 th set
+The memory for this set is 4704 B
+Having used stack for 0.627304 MB
+------------------------------------------------
+The 258 th set
+The memory for this set is 1328 B
+Having used stack for 0.628571 MB
+------------------------------------------------
+The 259 th set
+The memory for this set is 1632 B
+Having used stack for 0.630127 MB
+------------------------------------------------
+The 260 th set
+The memory for this set is 4704 B
+Having used stack for 0.634613 MB
+------------------------------------------------
+The 261 th set
+The memory for this set is 1328 B
+Having used stack for 0.63588 MB
+------------------------------------------------
+The 262 th set
+The memory for this set is 1632 B
+Having used stack for 0.637436 MB
+------------------------------------------------
+The 263 th set
+The memory for this set is 4704 B
+Having used stack for 0.641922 MB
+------------------------------------------------
+The 264 th set
+The memory for this set is 1328 B
+Having used stack for 0.643188 MB
+------------------------------------------------
+The 265 th set
+The memory for this set is 1632 B
+Having used stack for 0.644745 MB
+------------------------------------------------
+The 266 th set
+The memory for this set is 4704 B
+Having used stack for 0.649231 MB
+------------------------------------------------
+The 267 th set
+The memory for this set is 1328 B
+Having used stack for 0.650497 MB
+------------------------------------------------
+The 268 th set
+The memory for this set is 1632 B
+Having used stack for 0.652054 MB
+------------------------------------------------
+The 269 th set
+The memory for this set is 4704 B
+Having used stack for 0.65654 MB
+------------------------------------------------
+The 270 th set
+The memory for this set is 1328 B
+Having used stack for 0.657806 MB
+------------------------------------------------
+The 271 th set
+The memory for this set is 1632 B
+Having used stack for 0.659363 MB
+------------------------------------------------
+The 272 th set
+The memory for this set is 4704 B
+Having used stack for 0.663849 MB
+------------------------------------------------
+The 273 th set
+The memory for this set is 1328 B
+Having used stack for 0.665115 MB
+------------------------------------------------
+The 274 th set
+The memory for this set is 1632 B
+Having used stack for 0.666672 MB
+------------------------------------------------
+The 275 th set
+The memory for this set is 4704 B
+Having used stack for 0.671158 MB
+------------------------------------------------
+The 276 th set
+The memory for this set is 1328 B
+Having used stack for 0.672424 MB
+------------------------------------------------
+The 277 th set
+The memory for this set is 1632 B
+Having used stack for 0.673981 MB
+------------------------------------------------
+The 278 th set
+The memory for this set is 4704 B
+Having used stack for 0.678467 MB
+------------------------------------------------
+The 279 th set
+The memory for this set is 1328 B
+Having used stack for 0.679733 MB
+------------------------------------------------
+The 280 th set
+The memory for this set is 1632 B
+Having used stack for 0.68129 MB
+------------------------------------------------
+The 281 th set
+The memory for this set is 4704 B
+Having used stack for 0.685776 MB
+------------------------------------------------
+The 282 th set
+The memory for this set is 1328 B
+Having used stack for 0.687042 MB
+------------------------------------------------
+The 283 th set
+The memory for this set is 1632 B
+Having used stack for 0.688599 MB
+------------------------------------------------
+The 284 th set
+The memory for this set is 4704 B
+Having used stack for 0.693085 MB
+------------------------------------------------
+The 285 th set
+The memory for this set is 1328 B
+Having used stack for 0.694351 MB
+------------------------------------------------
+The 286 th set
+The memory for this set is 1632 B
+Having used stack for 0.695908 MB
+------------------------------------------------
+The 287 th set
+The memory for this set is 4704 B
+Having used stack for 0.700394 MB
+------------------------------------------------
+The 288 th set
+The memory for this set is 1328 B
+Having used stack for 0.70166 MB
+------------------------------------------------
+The 289 th set
+The memory for this set is 1632 B
+Having used stack for 0.703217 MB
+------------------------------------------------
+The 290 th set
+The memory for this set is 4704 B
+Having used stack for 0.707703 MB
+------------------------------------------------
+The 291 th set
+The memory for this set is 1328 B
+Having used stack for 0.708969 MB
+------------------------------------------------
+The 292 th set
+The memory for this set is 1632 B
+Having used stack for 0.710526 MB
+------------------------------------------------
+The 293 th set
+The memory for this set is 4704 B
+Having used stack for 0.715012 MB
+------------------------------------------------
+The 294 th set
+The memory for this set is 1328 B
+Having used stack for 0.716278 MB
+------------------------------------------------
+The 295 th set
+The memory for this set is 1632 B
+Having used stack for 0.717834 MB
+------------------------------------------------
+The 296 th set
+The memory for this set is 4704 B
+Having used stack for 0.722321 MB
+------------------------------------------------
+The 297 th set
+The memory for this set is 1328 B
+Having used stack for 0.723587 MB
+------------------------------------------------
+The 298 th set
+The memory for this set is 1632 B
+Having used stack for 0.725143 MB
+------------------------------------------------
+The 299 th set
+The memory for this set is 4704 B
+Having used stack for 0.72963 MB
+------------------------------------------------
+The 300 th set
+The memory for this set is 1328 B
+Having used stack for 0.730896 MB
+------------------------------------------------
+The 301 th set
+The memory for this set is 1632 B
+Having used stack for 0.732452 MB
+------------------------------------------------
+The 302 th set
+The memory for this set is 4704 B
+Having used stack for 0.736938 MB
+------------------------------------------------
+The 303 th set
+The memory for this set is 1328 B
+Having used stack for 0.738205 MB
+------------------------------------------------
+The 304 th set
+The memory for this set is 1632 B
+Having used stack for 0.739761 MB
+------------------------------------------------
+The 305 th set
+The memory for this set is 4704 B
+Having used stack for 0.744247 MB
+------------------------------------------------
+The 306 th set
+The memory for this set is 1328 B
+Having used stack for 0.745514 MB
+------------------------------------------------
+The 307 th set
+The memory for this set is 1632 B
+Having used stack for 0.74707 MB
+------------------------------------------------
+The 308 th set
+The memory for this set is 4704 B
+Having used stack for 0.751556 MB
+------------------------------------------------
+The 309 th set
+The memory for this set is 1328 B
+Having used stack for 0.752823 MB
+------------------------------------------------
+The 310 th set
+The memory for this set is 1632 B
+Having used stack for 0.754379 MB
+------------------------------------------------
+The 311 th set
+The memory for this set is 4704 B
+Having used stack for 0.758865 MB
+------------------------------------------------
+The 312 th set
+The memory for this set is 1328 B
+Having used stack for 0.760132 MB
+------------------------------------------------
+The 313 th set
+The memory for this set is 1632 B
+Having used stack for 0.761688 MB
+------------------------------------------------
+The 314 th set
+The memory for this set is 4704 B
+Having used stack for 0.766174 MB
+------------------------------------------------
+The 315 th set
+The memory for this set is 1328 B
+Having used stack for 0.767441 MB
+------------------------------------------------
+The 316 th set
+The memory for this set is 1632 B
+Having used stack for 0.768997 MB
+------------------------------------------------
+The 317 th set
+The memory for this set is 4704 B
+Having used stack for 0.773483 MB
+------------------------------------------------
+The 318 th set
+The memory for this set is 1328 B
+Having used stack for 0.77475 MB
+------------------------------------------------
+The 319 th set
+The memory for this set is 1632 B
+Having used stack for 0.776306 MB
+------------------------------------------------
+The 320 th set
+The memory for this set is 4704 B
+Having used stack for 0.780792 MB
+------------------------------------------------
+The 321 th set
+The memory for this set is 1328 B
+Having used stack for 0.782059 MB
+------------------------------------------------
+The 322 th set
+The memory for this set is 1632 B
+Having used stack for 0.783615 MB
+------------------------------------------------
+The 323 th set
+The memory for this set is 4704 B
+Having used stack for 0.788101 MB
+------------------------------------------------
+The 324 th set
+The memory for this set is 1328 B
+Having used stack for 0.789368 MB
+------------------------------------------------
+The 325 th set
+The memory for this set is 1632 B
+Having used stack for 0.790924 MB
+------------------------------------------------
+The 326 th set
+The memory for this set is 4704 B
+Having used stack for 0.79541 MB
+------------------------------------------------
+The 327 th set
+The memory for this set is 1328 B
+Having used stack for 0.796677 MB
+------------------------------------------------
+The 328 th set
+The memory for this set is 1632 B
+Having used stack for 0.798233 MB
+------------------------------------------------
+The 329 th set
+The memory for this set is 4704 B
+Having used stack for 0.802719 MB
+------------------------------------------------
+The 330 th set
+The memory for this set is 1328 B
+Having used stack for 0.803986 MB
+------------------------------------------------
+The 331 th set
+The memory for this set is 1632 B
+Having used stack for 0.805542 MB
+------------------------------------------------
+The 332 th set
+The memory for this set is 4704 B
+Having used stack for 0.810028 MB
+------------------------------------------------
+The 333 th set
+The memory for this set is 1328 B
+Having used stack for 0.811295 MB
+------------------------------------------------
+The 334 th set
+The memory for this set is 1632 B
+Having used stack for 0.812851 MB
+------------------------------------------------
+The 335 th set
+The memory for this set is 4704 B
+Having used stack for 0.817337 MB
+------------------------------------------------
+The 336 th set
+The memory for this set is 1328 B
+Having used stack for 0.818604 MB
+------------------------------------------------
+The 337 th set
+The memory for this set is 1632 B
+Having used stack for 0.82016 MB
+------------------------------------------------
+The 338 th set
+The memory for this set is 4704 B
+Having used stack for 0.824646 MB
+------------------------------------------------
+The 339 th set
+The memory for this set is 1328 B
+Having used stack for 0.825912 MB
+------------------------------------------------
+The 340 th set
+The memory for this set is 1632 B
+Having used stack for 0.827469 MB
+------------------------------------------------
+The 341 th set
+The memory for this set is 4704 B
+Having used stack for 0.831955 MB
+------------------------------------------------
+The 342 th set
+The memory for this set is 1328 B
+Having used stack for 0.833221 MB
+------------------------------------------------
+The 343 th set
+The memory for this set is 1632 B
+Having used stack for 0.834778 MB
+------------------------------------------------
+The 344 th set
+The memory for this set is 4704 B
+Having used stack for 0.839264 MB
+------------------------------------------------
+The 345 th set
+The memory for this set is 1328 B
+Having used stack for 0.84053 MB
+------------------------------------------------
+The 346 th set
+The memory for this set is 1632 B
+Having used stack for 0.842087 MB
+------------------------------------------------
+The 347 th set
+The memory for this set is 4704 B
+Having used stack for 0.846573 MB
+------------------------------------------------
+The 348 th set
+The memory for this set is 1328 B
+Having used stack for 0.847839 MB
+------------------------------------------------
+The 349 th set
+The memory for this set is 1632 B
+Having used stack for 0.849396 MB
+------------------------------------------------
+The 350 th set
+The memory for this set is 4704 B
+Having used stack for 0.853882 MB
+------------------------------------------------
+The 351 th set
+The memory for this set is 1328 B
+Having used stack for 0.855148 MB
+------------------------------------------------
+The 352 th set
+The memory for this set is 1632 B
+Having used stack for 0.856705 MB
+------------------------------------------------
+The 353 th set
+The memory for this set is 4704 B
+Having used stack for 0.861191 MB
+------------------------------------------------
+The 354 th set
+The memory for this set is 1328 B
+Having used stack for 0.862457 MB
+------------------------------------------------
+The 355 th set
+The memory for this set is 1632 B
+Having used stack for 0.864014 MB
+------------------------------------------------
+The 356 th set
+The memory for this set is 4704 B
+Having used stack for 0.8685 MB
+------------------------------------------------
+The 357 th set
+The memory for this set is 1328 B
+Having used stack for 0.869766 MB
+------------------------------------------------
+The 358 th set
+The memory for this set is 1632 B
+Having used stack for 0.871323 MB
+------------------------------------------------
+The 359 th set
+The memory for this set is 4704 B
+Having used stack for 0.875809 MB
+------------------------------------------------
+The 360 th set
+The memory for this set is 1328 B
+Having used stack for 0.877075 MB
+------------------------------------------------
+The 361 th set
+The memory for this set is 1632 B
+Having used stack for 0.878632 MB
+------------------------------------------------
+The 362 th set
+The memory for this set is 4704 B
+Having used stack for 0.883118 MB
+------------------------------------------------
+The 363 th set
+The memory for this set is 1328 B
+Having used stack for 0.884384 MB
+------------------------------------------------
+The 364 th set
+The memory for this set is 1632 B
+Having used stack for 0.885941 MB
+------------------------------------------------
+The 365 th set
+The memory for this set is 4704 B
+Having used stack for 0.890427 MB
+------------------------------------------------
+The 366 th set
+The memory for this set is 1328 B
+Having used stack for 0.891693 MB
+------------------------------------------------
+The 367 th set
+The memory for this set is 1632 B
+Having used stack for 0.89325 MB
+------------------------------------------------
+The 368 th set
+The memory for this set is 4704 B
+Having used stack for 0.897736 MB
+------------------------------------------------
+The 369 th set
+The memory for this set is 1328 B
+Having used stack for 0.899002 MB
+------------------------------------------------
+The 370 th set
+The memory for this set is 1632 B
+Having used stack for 0.900558 MB
+------------------------------------------------
+The 371 th set
+The memory for this set is 4704 B
+Having used stack for 0.905045 MB
+------------------------------------------------
+The 372 th set
+The memory for this set is 1328 B
+Having used stack for 0.906311 MB
+------------------------------------------------
+The 373 th set
+The memory for this set is 1632 B
+Having used stack for 0.907867 MB
+------------------------------------------------
+The 374 th set
+The memory for this set is 4704 B
+Having used stack for 0.912354 MB
+------------------------------------------------
+The 375 th set
+The memory for this set is 1328 B
+Having used stack for 0.91362 MB
+------------------------------------------------
+The 376 th set
+The memory for this set is 1632 B
+Having used stack for 0.915176 MB
+------------------------------------------------
+The 377 th set
+The memory for this set is 4704 B
+Having used stack for 0.919662 MB
+------------------------------------------------
+The 378 th set
+The memory for this set is 1328 B
+Having used stack for 0.920929 MB
+------------------------------------------------
+The 379 th set
+The memory for this set is 1632 B
+Having used stack for 0.922485 MB
+------------------------------------------------
+The 380 th set
+The memory for this set is 4704 B
+Having used stack for 0.926971 MB
+------------------------------------------------
+The 381 th set
+The memory for this set is 1328 B
+Having used stack for 0.928238 MB
+------------------------------------------------
+The 382 th set
+The memory for this set is 1632 B
+Having used stack for 0.929794 MB
+------------------------------------------------
+The 383 th set
+The memory for this set is 4704 B
+Having used stack for 0.93428 MB
+------------------------------------------------
+The 384 th set
+The memory for this set is 1328 B
+Having used stack for 0.935547 MB
+------------------------------------------------
+The 385 th set
+The memory for this set is 1632 B
+Having used stack for 0.937103 MB
+------------------------------------------------
+The 386 th set
+The memory for this set is 4704 B
+Having used stack for 0.941589 MB
+------------------------------------------------
+The 387 th set
+The memory for this set is 1328 B
+Having used stack for 0.942856 MB
+------------------------------------------------
+The 388 th set
+The memory for this set is 1632 B
+Having used stack for 0.944412 MB
+------------------------------------------------
+The 389 th set
+The memory for this set is 4704 B
+Having used stack for 0.948898 MB
+------------------------------------------------
+The 390 th set
+The memory for this set is 1328 B
+Having used stack for 0.950165 MB
+------------------------------------------------
+The 391 th set
+The memory for this set is 1632 B
+Having used stack for 0.951721 MB
+------------------------------------------------
+The 392 th set
+The memory for this set is 4704 B
+Having used stack for 0.956207 MB
+------------------------------------------------
+The 393 th set
+The memory for this set is 1328 B
+Having used stack for 0.957474 MB
+------------------------------------------------
+The 394 th set
+The memory for this set is 1632 B
+Having used stack for 0.95903 MB
+------------------------------------------------
+The 395 th set
+The memory for this set is 4704 B
+Having used stack for 0.963516 MB
+------------------------------------------------
+The 396 th set
+The memory for this set is 1328 B
+Having used stack for 0.964783 MB
+------------------------------------------------
+The 397 th set
+The memory for this set is 1632 B
+Having used stack for 0.966339 MB
+------------------------------------------------
+The 398 th set
+The memory for this set is 4704 B
+Having used stack for 0.970825 MB
+------------------------------------------------
+The 399 th set
+The memory for this set is 1328 B
+Having used stack for 0.972092 MB
+------------------------------------------------

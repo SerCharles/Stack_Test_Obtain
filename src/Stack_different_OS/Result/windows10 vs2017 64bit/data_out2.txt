@@ -1,0 +1,716 @@
+The 1 th set
+The memory for this set is 5664 B
+Having used stack for 0.00540161 MB
+------------------------------------------------
+The 2 th set
+The memory for this set is 5664 B
+Having used stack for 0.0108032 MB
+------------------------------------------------
+The 3 th set
+The memory for this set is 5664 B
+Having used stack for 0.0162048 MB
+------------------------------------------------
+The 4 th set
+The memory for this set is 5664 B
+Having used stack for 0.0216064 MB
+------------------------------------------------
+The 5 th set
+The memory for this set is 5664 B
+Having used stack for 0.0270081 MB
+------------------------------------------------
+The 6 th set
+The memory for this set is 5664 B
+Having used stack for 0.0324097 MB
+------------------------------------------------
+The 7 th set
+The memory for this set is 5664 B
+Having used stack for 0.0378113 MB
+------------------------------------------------
+The 8 th set
+The memory for this set is 5664 B
+Having used stack for 0.0432129 MB
+------------------------------------------------
+The 9 th set
+The memory for this set is 5664 B
+Having used stack for 0.0486145 MB
+------------------------------------------------
+The 10 th set
+The memory for this set is 5664 B
+Having used stack for 0.0540161 MB
+------------------------------------------------
+The 11 th set
+The memory for this set is 5664 B
+Having used stack for 0.0594177 MB
+------------------------------------------------
+The 12 th set
+The memory for this set is 5664 B
+Having used stack for 0.0648193 MB
+------------------------------------------------
+The 13 th set
+The memory for this set is 5664 B
+Having used stack for 0.0702209 MB
+------------------------------------------------
+The 14 th set
+The memory for this set is 5664 B
+Having used stack for 0.0756226 MB
+------------------------------------------------
+The 15 th set
+The memory for this set is 5664 B
+Having used stack for 0.0810242 MB
+------------------------------------------------
+The 16 th set
+The memory for this set is 5664 B
+Having used stack for 0.0864258 MB
+------------------------------------------------
+The 17 th set
+The memory for this set is 5664 B
+Having used stack for 0.0918274 MB
+------------------------------------------------
+The 18 th set
+The memory for this set is 5664 B
+Having used stack for 0.097229 MB
+------------------------------------------------
+The 19 th set
+The memory for this set is 5664 B
+Having used stack for 0.102631 MB
+------------------------------------------------
+The 20 th set
+The memory for this set is 5664 B
+Having used stack for 0.108032 MB
+------------------------------------------------
+The 21 th set
+The memory for this set is 5664 B
+Having used stack for 0.113434 MB
+------------------------------------------------
+The 22 th set
+The memory for this set is 5664 B
+Having used stack for 0.118835 MB
+------------------------------------------------
+The 23 th set
+The memory for this set is 5664 B
+Having used stack for 0.124237 MB
+------------------------------------------------
+The 24 th set
+The memory for this set is 5664 B
+Having used stack for 0.129639 MB
+------------------------------------------------
+The 25 th set
+The memory for this set is 5664 B
+Having used stack for 0.13504 MB
+------------------------------------------------
+The 26 th set
+The memory for this set is 5664 B
+Having used stack for 0.140442 MB
+------------------------------------------------
+The 27 th set
+The memory for this set is 5664 B
+Having used stack for 0.145844 MB
+------------------------------------------------
+The 28 th set
+The memory for this set is 5664 B
+Having used stack for 0.151245 MB
+------------------------------------------------
+The 29 th set
+The memory for this set is 5664 B
+Having used stack for 0.156647 MB
+------------------------------------------------
+The 30 th set
+The memory for this set is 5664 B
+Having used stack for 0.162048 MB
+------------------------------------------------
+The 31 th set
+The memory for this set is 5664 B
+Having used stack for 0.16745 MB
+------------------------------------------------
+The 32 th set
+The memory for this set is 5664 B
+Having used stack for 0.172852 MB
+------------------------------------------------
+The 33 th set
+The memory for this set is 5664 B
+Having used stack for 0.178253 MB
+------------------------------------------------
+The 34 th set
+The memory for this set is 5664 B
+Having used stack for 0.183655 MB
+------------------------------------------------
+The 35 th set
+The memory for this set is 5664 B
+Having used stack for 0.189056 MB
+------------------------------------------------
+The 36 th set
+The memory for this set is 5664 B
+Having used stack for 0.194458 MB
+------------------------------------------------
+The 37 th set
+The memory for this set is 5664 B
+Having used stack for 0.19986 MB
+------------------------------------------------
+The 38 th set
+The memory for this set is 5664 B
+Having used stack for 0.205261 MB
+------------------------------------------------
+The 39 th set
+The memory for this set is 5664 B
+Having used stack for 0.210663 MB
+------------------------------------------------
+The 40 th set
+The memory for this set is 5664 B
+Having used stack for 0.216064 MB
+------------------------------------------------
+The 41 th set
+The memory for this set is 5664 B
+Having used stack for 0.221466 MB
+------------------------------------------------
+The 42 th set
+The memory for this set is 5664 B
+Having used stack for 0.226868 MB
+------------------------------------------------
+The 43 th set
+The memory for this set is 5664 B
+Having used stack for 0.232269 MB
+------------------------------------------------
+The 44 th set
+The memory for this set is 5664 B
+Having used stack for 0.237671 MB
+------------------------------------------------
+The 45 th set
+The memory for this set is 5664 B
+Having used stack for 0.243073 MB
+------------------------------------------------
+The 46 th set
+The memory for this set is 5664 B
+Having used stack for 0.248474 MB
+------------------------------------------------
+The 47 th set
+The memory for this set is 5664 B
+Having used stack for 0.253876 MB
+------------------------------------------------
+The 48 th set
+The memory for this set is 5664 B
+Having used stack for 0.259277 MB
+------------------------------------------------
+The 49 th set
+The memory for this set is 5664 B
+Having used stack for 0.264679 MB
+------------------------------------------------
+The 50 th set
+The memory for this set is 5664 B
+Having used stack for 0.270081 MB
+------------------------------------------------
+The 51 th set
+The memory for this set is 5664 B
+Having used stack for 0.275482 MB
+------------------------------------------------
+The 52 th set
+The memory for this set is 5664 B
+Having used stack for 0.280884 MB
+------------------------------------------------
+The 53 th set
+The memory for this set is 5664 B
+Having used stack for 0.286285 MB
+------------------------------------------------
+The 54 th set
+The memory for this set is 5664 B
+Having used stack for 0.291687 MB
+------------------------------------------------
+The 55 th set
+The memory for this set is 5664 B
+Having used stack for 0.297089 MB
+------------------------------------------------
+The 56 th set
+The memory for this set is 5664 B
+Having used stack for 0.30249 MB
+------------------------------------------------
+The 57 th set
+The memory for this set is 5664 B
+Having used stack for 0.307892 MB
+------------------------------------------------
+The 58 th set
+The memory for this set is 5664 B
+Having used stack for 0.313293 MB
+------------------------------------------------
+The 59 th set
+The memory for this set is 5664 B
+Having used stack for 0.318695 MB
+------------------------------------------------
+The 60 th set
+The memory for this set is 5664 B
+Having used stack for 0.324097 MB
+------------------------------------------------
+The 61 th set
+The memory for this set is 5664 B
+Having used stack for 0.329498 MB
+------------------------------------------------
+The 62 th set
+The memory for this set is 5664 B
+Having used stack for 0.3349 MB
+------------------------------------------------
+The 63 th set
+The memory for this set is 5664 B
+Having used stack for 0.340302 MB
+------------------------------------------------
+The 64 th set
+The memory for this set is 5664 B
+Having used stack for 0.345703 MB
+------------------------------------------------
+The 65 th set
+The memory for this set is 5664 B
+Having used stack for 0.351105 MB
+------------------------------------------------
+The 66 th set
+The memory for this set is 5664 B
+Having used stack for 0.356506 MB
+------------------------------------------------
+The 67 th set
+The memory for this set is 5664 B
+Having used stack for 0.361908 MB
+------------------------------------------------
+The 68 th set
+The memory for this set is 5664 B
+Having used stack for 0.36731 MB
+------------------------------------------------
+The 69 th set
+The memory for this set is 5664 B
+Having used stack for 0.372711 MB
+------------------------------------------------
+The 70 th set
+The memory for this set is 5664 B
+Having used stack for 0.378113 MB
+------------------------------------------------
+The 71 th set
+The memory for this set is 5664 B
+Having used stack for 0.383514 MB
+------------------------------------------------
+The 72 th set
+The memory for this set is 5664 B
+Having used stack for 0.388916 MB
+------------------------------------------------
+The 73 th set
+The memory for this set is 5664 B
+Having used stack for 0.394318 MB
+------------------------------------------------
+The 74 th set
+The memory for this set is 5664 B
+Having used stack for 0.399719 MB
+------------------------------------------------
+The 75 th set
+The memory for this set is 5664 B
+Having used stack for 0.405121 MB
+------------------------------------------------
+The 76 th set
+The memory for this set is 5664 B
+Having used stack for 0.410522 MB
+------------------------------------------------
+The 77 th set
+The memory for this set is 5664 B
+Having used stack for 0.415924 MB
+------------------------------------------------
+The 78 th set
+The memory for this set is 5664 B
+Having used stack for 0.421326 MB
+------------------------------------------------
+The 79 th set
+The memory for this set is 5664 B
+Having used stack for 0.426727 MB
+------------------------------------------------
+The 80 th set
+The memory for this set is 5664 B
+Having used stack for 0.432129 MB
+------------------------------------------------
+The 81 th set
+The memory for this set is 5664 B
+Having used stack for 0.437531 MB
+------------------------------------------------
+The 82 th set
+The memory for this set is 5664 B
+Having used stack for 0.442932 MB
+------------------------------------------------
+The 83 th set
+The memory for this set is 5664 B
+Having used stack for 0.448334 MB
+------------------------------------------------
+The 84 th set
+The memory for this set is 5664 B
+Having used stack for 0.453735 MB
+------------------------------------------------
+The 85 th set
+The memory for this set is 5664 B
+Having used stack for 0.459137 MB
+------------------------------------------------
+The 86 th set
+The memory for this set is 5664 B
+Having used stack for 0.464539 MB
+------------------------------------------------
+The 87 th set
+The memory for this set is 5664 B
+Having used stack for 0.46994 MB
+------------------------------------------------
+The 88 th set
+The memory for this set is 5664 B
+Having used stack for 0.475342 MB
+------------------------------------------------
+The 89 th set
+The memory for this set is 5664 B
+Having used stack for 0.480743 MB
+------------------------------------------------
+The 90 th set
+The memory for this set is 5664 B
+Having used stack for 0.486145 MB
+------------------------------------------------
+The 91 th set
+The memory for this set is 5664 B
+Having used stack for 0.491547 MB
+------------------------------------------------
+The 92 th set
+The memory for this set is 5664 B
+Having used stack for 0.496948 MB
+------------------------------------------------
+The 93 th set
+The memory for this set is 5664 B
+Having used stack for 0.50235 MB
+------------------------------------------------
+The 94 th set
+The memory for this set is 5664 B
+Having used stack for 0.507751 MB
+------------------------------------------------
+The 95 th set
+The memory for this set is 5664 B
+Having used stack for 0.513153 MB
+------------------------------------------------
+The 96 th set
+The memory for this set is 5664 B
+Having used stack for 0.518555 MB
+------------------------------------------------
+The 97 th set
+The memory for this set is 5664 B
+Having used stack for 0.523956 MB
+------------------------------------------------
+The 98 th set
+The memory for this set is 5664 B
+Having used stack for 0.529358 MB
+------------------------------------------------
+The 99 th set
+The memory for this set is 5664 B
+Having used stack for 0.53476 MB
+------------------------------------------------
+The 100 th set
+The memory for this set is 5664 B
+Having used stack for 0.540161 MB
+------------------------------------------------
+The 101 th set
+The memory for this set is 5664 B
+Having used stack for 0.545563 MB
+------------------------------------------------
+The 102 th set
+The memory for this set is 5664 B
+Having used stack for 0.550964 MB
+------------------------------------------------
+The 103 th set
+The memory for this set is 5664 B
+Having used stack for 0.556366 MB
+------------------------------------------------
+The 104 th set
+The memory for this set is 5664 B
+Having used stack for 0.561768 MB
+------------------------------------------------
+The 105 th set
+The memory for this set is 5664 B
+Having used stack for 0.567169 MB
+------------------------------------------------
+The 106 th set
+The memory for this set is 5664 B
+Having used stack for 0.572571 MB
+------------------------------------------------
+The 107 th set
+The memory for this set is 5664 B
+Having used stack for 0.577972 MB
+------------------------------------------------
+The 108 th set
+The memory for this set is 5664 B
+Having used stack for 0.583374 MB
+------------------------------------------------
+The 109 th set
+The memory for this set is 5664 B
+Having used stack for 0.588776 MB
+------------------------------------------------
+The 110 th set
+The memory for this set is 5664 B
+Having used stack for 0.594177 MB
+------------------------------------------------
+The 111 th set
+The memory for this set is 5664 B
+Having used stack for 0.599579 MB
+------------------------------------------------
+The 112 th set
+The memory for this set is 5664 B
+Having used stack for 0.60498 MB
+------------------------------------------------
+The 113 th set
+The memory for this set is 5664 B
+Having used stack for 0.610382 MB
+------------------------------------------------
+The 114 th set
+The memory for this set is 5664 B
+Having used stack for 0.615784 MB
+------------------------------------------------
+The 115 th set
+The memory for this set is 5664 B
+Having used stack for 0.621185 MB
+------------------------------------------------
+The 116 th set
+The memory for this set is 5664 B
+Having used stack for 0.626587 MB
+------------------------------------------------
+The 117 th set
+The memory for this set is 5664 B
+Having used stack for 0.631989 MB
+------------------------------------------------
+The 118 th set
+The memory for this set is 5664 B
+Having used stack for 0.63739 MB
+------------------------------------------------
+The 119 th set
+The memory for this set is 5664 B
+Having used stack for 0.642792 MB
+------------------------------------------------
+The 120 th set
+The memory for this set is 5664 B
+Having used stack for 0.648193 MB
+------------------------------------------------
+The 121 th set
+The memory for this set is 5664 B
+Having used stack for 0.653595 MB
+------------------------------------------------
+The 122 th set
+The memory for this set is 5664 B
+Having used stack for 0.658997 MB
+------------------------------------------------
+The 123 th set
+The memory for this set is 5664 B
+Having used stack for 0.664398 MB
+------------------------------------------------
+The 124 th set
+The memory for this set is 5664 B
+Having used stack for 0.6698 MB
+------------------------------------------------
+The 125 th set
+The memory for this set is 5664 B
+Having used stack for 0.675201 MB
+------------------------------------------------
+The 126 th set
+The memory for this set is 5664 B
+Having used stack for 0.680603 MB
+------------------------------------------------
+The 127 th set
+The memory for this set is 5664 B
+Having used stack for 0.686005 MB
+------------------------------------------------
+The 128 th set
+The memory for this set is 5664 B
+Having used stack for 0.691406 MB
+------------------------------------------------
+The 129 th set
+The memory for this set is 5664 B
+Having used stack for 0.696808 MB
+------------------------------------------------
+The 130 th set
+The memory for this set is 5664 B
+Having used stack for 0.702209 MB
+------------------------------------------------
+The 131 th set
+The memory for this set is 5664 B
+Having used stack for 0.707611 MB
+------------------------------------------------
+The 132 th set
+The memory for this set is 5664 B
+Having used stack for 0.713013 MB
+------------------------------------------------
+The 133 th set
+The memory for this set is 5664 B
+Having used stack for 0.718414 MB
+------------------------------------------------
+The 134 th set
+The memory for this set is 5664 B
+Having used stack for 0.723816 MB
+------------------------------------------------
+The 135 th set
+The memory for this set is 5664 B
+Having used stack for 0.729218 MB
+------------------------------------------------
+The 136 th set
+The memory for this set is 5664 B
+Having used stack for 0.734619 MB
+------------------------------------------------
+The 137 th set
+The memory for this set is 5664 B
+Having used stack for 0.740021 MB
+------------------------------------------------
+The 138 th set
+The memory for this set is 5664 B
+Having used stack for 0.745422 MB
+------------------------------------------------
+The 139 th set
+The memory for this set is 5664 B
+Having used stack for 0.750824 MB
+------------------------------------------------
+The 140 th set
+The memory for this set is 5664 B
+Having used stack for 0.756226 MB
+------------------------------------------------
+The 141 th set
+The memory for this set is 5664 B
+Having used stack for 0.761627 MB
+------------------------------------------------
+The 142 th set
+The memory for this set is 5664 B
+Having used stack for 0.767029 MB
+------------------------------------------------
+The 143 th set
+The memory for this set is 5664 B
+Having used stack for 0.77243 MB
+------------------------------------------------
+The 144 th set
+The memory for this set is 5664 B
+Having used stack for 0.777832 MB
+------------------------------------------------
+The 145 th set
+The memory for this set is 5664 B
+Having used stack for 0.783234 MB
+------------------------------------------------
+The 146 th set
+The memory for this set is 5664 B
+Having used stack for 0.788635 MB
+------------------------------------------------
+The 147 th set
+The memory for this set is 5664 B
+Having used stack for 0.794037 MB
+------------------------------------------------
+The 148 th set
+The memory for this set is 5664 B
+Having used stack for 0.799438 MB
+------------------------------------------------
+The 149 th set
+The memory for this set is 5664 B
+Having used stack for 0.80484 MB
+------------------------------------------------
+The 150 th set
+The memory for this set is 5664 B
+Having used stack for 0.810242 MB
+------------------------------------------------
+The 151 th set
+The memory for this set is 5664 B
+Having used stack for 0.815643 MB
+------------------------------------------------
+The 152 th set
+The memory for this set is 5664 B
+Having used stack for 0.821045 MB
+------------------------------------------------
+The 153 th set
+The memory for this set is 5664 B
+Having used stack for 0.826447 MB
+------------------------------------------------
+The 154 th set
+The memory for this set is 5664 B
+Having used stack for 0.831848 MB
+------------------------------------------------
+The 155 th set
+The memory for this set is 5664 B
+Having used stack for 0.83725 MB
+------------------------------------------------
+The 156 th set
+The memory for this set is 5664 B
+Having used stack for 0.842651 MB
+------------------------------------------------
+The 157 th set
+The memory for this set is 5664 B
+Having used stack for 0.848053 MB
+------------------------------------------------
+The 158 th set
+The memory for this set is 5664 B
+Having used stack for 0.853455 MB
+------------------------------------------------
+The 159 th set
+The memory for this set is 5664 B
+Having used stack for 0.858856 MB
+------------------------------------------------
+The 160 th set
+The memory for this set is 5664 B
+Having used stack for 0.864258 MB
+------------------------------------------------
+The 161 th set
+The memory for this set is 5664 B
+Having used stack for 0.869659 MB
+------------------------------------------------
+The 162 th set
+The memory for this set is 5664 B
+Having used stack for 0.875061 MB
+------------------------------------------------
+The 163 th set
+The memory for this set is 5664 B
+Having used stack for 0.880463 MB
+------------------------------------------------
+The 164 th set
+The memory for this set is 5664 B
+Having used stack for 0.885864 MB
+------------------------------------------------
+The 165 th set
+The memory for this set is 5664 B
+Having used stack for 0.891266 MB
+------------------------------------------------
+The 166 th set
+The memory for this set is 5664 B
+Having used stack for 0.896667 MB
+------------------------------------------------
+The 167 th set
+The memory for this set is 5664 B
+Having used stack for 0.902069 MB
+------------------------------------------------
+The 168 th set
+The memory for this set is 5664 B
+Having used stack for 0.907471 MB
+------------------------------------------------
+The 169 th set
+The memory for this set is 5664 B
+Having used stack for 0.912872 MB
+------------------------------------------------
+The 170 th set
+The memory for this set is 5664 B
+Having used stack for 0.918274 MB
+------------------------------------------------
+The 171 th set
+The memory for this set is 5664 B
+Having used stack for 0.923676 MB
+------------------------------------------------
+The 172 th set
+The memory for this set is 5664 B
+Having used stack for 0.929077 MB
+------------------------------------------------
+The 173 th set
+The memory for this set is 5664 B
+Having used stack for 0.934479 MB
+------------------------------------------------
+The 174 th set
+The memory for this set is 5664 B
+Having used stack for 0.93988 MB
+------------------------------------------------
+The 175 th set
+The memory for this set is 5664 B
+Having used stack for 0.945282 MB
+------------------------------------------------
+The 176 th set
+The memory for this set is 5664 B
+Having used stack for 0.950684 MB
+------------------------------------------------
+The 177 th set
+The memory for this set is 5664 B
+Having used stack for 0.956085 MB
+------------------------------------------------
+The 178 th set
+The memory for this set is 5664 B
+Having used stack for 0.961487 MB
+------------------------------------------------
+The 179 th set
+The memory for this set is 5664 B
+Having used stack for 0.966888 MB
+------------------------------------------------

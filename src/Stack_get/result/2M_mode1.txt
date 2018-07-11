@@ -1,0 +1,26 @@
+The 1th data
+There is still 2.00364 MB of stack memory left
+The 300th data
+There is still 1.92722 MB of stack memory left
+The 600th data
+There is still 1.85054 MB of stack memory left
+The 900th data
+There is still 1.77386 MB of stack memory left
+The 1200th data
+There is still 1.69719 MB of stack memory left
+The 1500th data
+There is still 1.62051 MB of stack memory left
+The 1800th data
+There is still 1.54384 MB of stack memory left
+The 2100th data
+There is still 1.46716 MB of stack memory left
+The 2400th data
+There is still 1.39049 MB of stack memory left
+The 2700th data
+There is still 1.31381 MB of stack memory left
+The 3000th data
+There is still 1.23714 MB of stack memory left
+The 3300th data
+There is still 1.16046 MB of stack memory left
+The 3600th data
+There is still 1.08379 MB of stack memory left

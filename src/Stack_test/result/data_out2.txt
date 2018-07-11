@@ -1,0 +1,841 @@
+The start place is 246175232532
+The 1 th set
+Present place is 246175226500
+The memory for this set is 6032 B
+Having used stack for 0.00575256 MB
+------------------------------------------------
+The 2 th set
+Present place is 246175220468
+The memory for this set is 6032 B
+Having used stack for 0.012 MB
+------------------------------------------------
+The 3 th set
+Present place is 246175214436
+The memory for this set is 6032 B
+Having used stack for 0.017 MB
+------------------------------------------------
+The 4 th set
+Present place is 246175208404
+The memory for this set is 6032 B
+Having used stack for 0.023 MB
+------------------------------------------------
+The 5 th set
+Present place is 246175202372
+The memory for this set is 6032 B
+Having used stack for 0.029 MB
+------------------------------------------------
+The 6 th set
+Present place is 246175196340
+The memory for this set is 6032 B
+Having used stack for 0.035 MB
+------------------------------------------------
+The 7 th set
+Present place is 246175190308
+The memory for this set is 6032 B
+Having used stack for 0.04 MB
+------------------------------------------------
+The 8 th set
+Present place is 246175184276
+The memory for this set is 6032 B
+Having used stack for 0.046 MB
+------------------------------------------------
+The 9 th set
+Present place is 246175178244
+The memory for this set is 6032 B
+Having used stack for 0.052 MB
+------------------------------------------------
+The 10 th set
+Present place is 246175172212
+The memory for this set is 6032 B
+Having used stack for 0.058 MB
+------------------------------------------------
+The 11 th set
+Present place is 246175166180
+The memory for this set is 6032 B
+Having used stack for 0.063 MB
+------------------------------------------------
+The 12 th set
+Present place is 246175160148
+The memory for this set is 6032 B
+Having used stack for 0.069 MB
+------------------------------------------------
+The 13 th set
+Present place is 246175154116
+The memory for this set is 6032 B
+Having used stack for 0.075 MB
+------------------------------------------------
+The 14 th set
+Present place is 246175148084
+The memory for this set is 6032 B
+Having used stack for 0.081 MB
+------------------------------------------------
+The 15 th set
+Present place is 246175142052
+The memory for this set is 6032 B
+Having used stack for 0.086 MB
+------------------------------------------------
+The 16 th set
+Present place is 246175136020
+The memory for this set is 6032 B
+Having used stack for 0.092 MB
+------------------------------------------------
+The 17 th set
+Present place is 246175129988
+The memory for this set is 6032 B
+Having used stack for 0.098 MB
+------------------------------------------------
+The 18 th set
+Present place is 246175123956
+The memory for this set is 6032 B
+Having used stack for 0.1 MB
+------------------------------------------------
+The 19 th set
+Present place is 246175117924
+The memory for this set is 6032 B
+Having used stack for 0.11 MB
+------------------------------------------------
+The 20 th set
+Present place is 246175111892
+The memory for this set is 6032 B
+Having used stack for 0.12 MB
+------------------------------------------------
+The 21 th set
+Present place is 246175105860
+The memory for this set is 6032 B
+Having used stack for 0.12 MB
+------------------------------------------------
+The 22 th set
+Present place is 246175099828
+The memory for this set is 6032 B
+Having used stack for 0.13 MB
+------------------------------------------------
+The 23 th set
+Present place is 246175093796
+The memory for this set is 6032 B
+Having used stack for 0.13 MB
+------------------------------------------------
+The 24 th set
+Present place is 246175087764
+The memory for this set is 6032 B
+Having used stack for 0.14 MB
+------------------------------------------------
+The 25 th set
+Present place is 246175081732
+The memory for this set is 6032 B
+Having used stack for 0.14 MB
+------------------------------------------------
+The 26 th set
+Present place is 246175075700
+The memory for this set is 6032 B
+Having used stack for 0.15 MB
+------------------------------------------------
+The 27 th set
+Present place is 246175069668
+The memory for this set is 6032 B
+Having used stack for 0.16 MB
+------------------------------------------------
+The 28 th set
+Present place is 246175063636
+The memory for this set is 6032 B
+Having used stack for 0.16 MB
+------------------------------------------------
+The 29 th set
+Present place is 246175057604
+The memory for this set is 6032 B
+Having used stack for 0.17 MB
+------------------------------------------------
+The 30 th set
+Present place is 246175051572
+The memory for this set is 6032 B
+Having used stack for 0.17 MB
+------------------------------------------------
+The 31 th set
+Present place is 246175045540
+The memory for this set is 6032 B
+Having used stack for 0.18 MB
+------------------------------------------------
+The 32 th set
+Present place is 246175039508
+The memory for this set is 6032 B
+Having used stack for 0.18 MB
+------------------------------------------------
+The 33 th set
+Present place is 246175033476
+The memory for this set is 6032 B
+Having used stack for 0.19 MB
+------------------------------------------------
+The 34 th set
+Present place is 246175027444
+The memory for this set is 6032 B
+Having used stack for 0.2 MB
+------------------------------------------------
+The 35 th set
+Present place is 246175021412
+The memory for this set is 6032 B
+Having used stack for 0.2 MB
+------------------------------------------------
+The 36 th set
+Present place is 246175015380
+The memory for this set is 6032 B
+Having used stack for 0.21 MB
+------------------------------------------------
+The 37 th set
+Present place is 246175009348
+The memory for this set is 6032 B
+Having used stack for 0.21 MB
+------------------------------------------------
+The 38 th set
+Present place is 246175003316
+The memory for this set is 6032 B
+Having used stack for 0.22 MB
+------------------------------------------------
+The 39 th set
+Present place is 246174997284
+The memory for this set is 6032 B
+Having used stack for 0.22 MB
+------------------------------------------------
+The 40 th set
+Present place is 246174991252
+The memory for this set is 6032 B
+Having used stack for 0.23 MB
+------------------------------------------------
+The 41 th set
+Present place is 246174985220
+The memory for this set is 6032 B
+Having used stack for 0.24 MB
+------------------------------------------------
+The 42 th set
+Present place is 246174979188
+The memory for this set is 6032 B
+Having used stack for 0.24 MB
+------------------------------------------------
+The 43 th set
+Present place is 246174973156
+The memory for this set is 6032 B
+Having used stack for 0.25 MB
+------------------------------------------------
+The 44 th set
+Present place is 246174967124
+The memory for this set is 6032 B
+Having used stack for 0.25 MB
+------------------------------------------------
+The 45 th set
+Present place is 246174961092
+The memory for this set is 6032 B
+Having used stack for 0.26 MB
+------------------------------------------------
+The 46 th set
+Present place is 246174955060
+The memory for this set is 6032 B
+Having used stack for 0.26 MB
+------------------------------------------------
+The 47 th set
+Present place is 246174949028
+The memory for this set is 6032 B
+Having used stack for 0.27 MB
+------------------------------------------------
+The 48 th set
+Present place is 246174942996
+The memory for this set is 6032 B
+Having used stack for 0.28 MB
+------------------------------------------------
+The 49 th set
+Present place is 246174936964
+The memory for this set is 6032 B
+Having used stack for 0.28 MB
+------------------------------------------------
+The 50 th set
+Present place is 246174930932
+The memory for this set is 6032 B
+Having used stack for 0.29 MB
+------------------------------------------------
+The 51 th set
+Present place is 246174924900
+The memory for this set is 6032 B
+Having used stack for 0.29 MB
+------------------------------------------------
+The 52 th set
+Present place is 246174918868
+The memory for this set is 6032 B
+Having used stack for 0.3 MB
+------------------------------------------------
+The 53 th set
+Present place is 246174912836
+The memory for this set is 6032 B
+Having used stack for 0.3 MB
+------------------------------------------------
+The 54 th set
+Present place is 246174906804
+The memory for this set is 6032 B
+Having used stack for 0.31 MB
+------------------------------------------------
+The 55 th set
+Present place is 246174900772
+The memory for this set is 6032 B
+Having used stack for 0.32 MB
+------------------------------------------------
+The 56 th set
+Present place is 246174894740
+The memory for this set is 6032 B
+Having used stack for 0.32 MB
+------------------------------------------------
+The 57 th set
+Present place is 246174888708
+The memory for this set is 6032 B
+Having used stack for 0.33 MB
+------------------------------------------------
+The 58 th set
+Present place is 246174882676
+The memory for this set is 6032 B
+Having used stack for 0.33 MB
+------------------------------------------------
+The 59 th set
+Present place is 246174876644
+The memory for this set is 6032 B
+Having used stack for 0.34 MB
+------------------------------------------------
+The 60 th set
+Present place is 246174870612
+The memory for this set is 6032 B
+Having used stack for 0.35 MB
+------------------------------------------------
+The 61 th set
+Present place is 246174864580
+The memory for this set is 6032 B
+Having used stack for 0.35 MB
+------------------------------------------------
+The 62 th set
+Present place is 246174858548
+The memory for this set is 6032 B
+Having used stack for 0.36 MB
+------------------------------------------------
+The 63 th set
+Present place is 246174852516
+The memory for this set is 6032 B
+Having used stack for 0.36 MB
+------------------------------------------------
+The 64 th set
+Present place is 246174846484
+The memory for this set is 6032 B
+Having used stack for 0.37 MB
+------------------------------------------------
+The 65 th set
+Present place is 246174840452
+The memory for this set is 6032 B
+Having used stack for 0.37 MB
+------------------------------------------------
+The 66 th set
+Present place is 246174834420
+The memory for this set is 6032 B
+Having used stack for 0.38 MB
+------------------------------------------------
+The 67 th set
+Present place is 246174828388
+The memory for this set is 6032 B
+Having used stack for 0.39 MB
+------------------------------------------------
+The 68 th set
+Present place is 246174822356
+The memory for this set is 6032 B
+Having used stack for 0.39 MB
+------------------------------------------------
+The 69 th set
+Present place is 246174816324
+The memory for this set is 6032 B
+Having used stack for 0.4 MB
+------------------------------------------------
+The 70 th set
+Present place is 246174810292
+The memory for this set is 6032 B
+Having used stack for 0.4 MB
+------------------------------------------------
+The 71 th set
+Present place is 246174804260
+The memory for this set is 6032 B
+Having used stack for 0.41 MB
+------------------------------------------------
+The 72 th set
+Present place is 246174798228
+The memory for this set is 6032 B
+Having used stack for 0.41 MB
+------------------------------------------------
+The 73 th set
+Present place is 246174792196
+The memory for this set is 6032 B
+Having used stack for 0.42 MB
+------------------------------------------------
+The 74 th set
+Present place is 246174786164
+The memory for this set is 6032 B
+Having used stack for 0.43 MB
+------------------------------------------------
+The 75 th set
+Present place is 246174780132
+The memory for this set is 6032 B
+Having used stack for 0.43 MB
+------------------------------------------------
+The 76 th set
+Present place is 246174774100
+The memory for this set is 6032 B
+Having used stack for 0.44 MB
+------------------------------------------------
+The 77 th set
+Present place is 246174768068
+The memory for this set is 6032 B
+Having used stack for 0.44 MB
+------------------------------------------------
+The 78 th set
+Present place is 246174762036
+The memory for this set is 6032 B
+Having used stack for 0.45 MB
+------------------------------------------------
+The 79 th set
+Present place is 246174756004
+The memory for this set is 6032 B
+Having used stack for 0.45 MB
+------------------------------------------------
+The 80 th set
+Present place is 246174749972
+The memory for this set is 6032 B
+Having used stack for 0.46 MB
+------------------------------------------------
+The 81 th set
+Present place is 246174743940
+The memory for this set is 6032 B
+Having used stack for 0.47 MB
+------------------------------------------------
+The 82 th set
+Present place is 246174737908
+The memory for this set is 6032 B
+Having used stack for 0.47 MB
+------------------------------------------------
+The 83 th set
+Present place is 246174731876
+The memory for this set is 6032 B
+Having used stack for 0.48 MB
+------------------------------------------------
+The 84 th set
+Present place is 246174725844
+The memory for this set is 6032 B
+Having used stack for 0.48 MB
+------------------------------------------------
+The 85 th set
+Present place is 246174719812
+The memory for this set is 6032 B
+Having used stack for 0.49 MB
+------------------------------------------------
+The 86 th set
+Present place is 246174713780
+The memory for this set is 6032 B
+Having used stack for 0.49 MB
+------------------------------------------------
+The 87 th set
+Present place is 246174707748
+The memory for this set is 6032 B
+Having used stack for 0.5 MB
+------------------------------------------------
+The 88 th set
+Present place is 246174701716
+The memory for this set is 6032 B
+Having used stack for 0.51 MB
+------------------------------------------------
+The 89 th set
+Present place is 246174695684
+The memory for this set is 6032 B
+Having used stack for 0.51 MB
+------------------------------------------------
+The 90 th set
+Present place is 246174689652
+The memory for this set is 6032 B
+Having used stack for 0.52 MB
+------------------------------------------------
+The 91 th set
+Present place is 246174683620
+The memory for this set is 6032 B
+Having used stack for 0.52 MB
+------------------------------------------------
+The 92 th set
+Present place is 246174677588
+The memory for this set is 6032 B
+Having used stack for 0.53 MB
+------------------------------------------------
+The 93 th set
+Present place is 246174671556
+The memory for this set is 6032 B
+Having used stack for 0.53 MB
+------------------------------------------------
+The 94 th set
+Present place is 246174665524
+The memory for this set is 6032 B
+Having used stack for 0.54 MB
+------------------------------------------------
+The 95 th set
+Present place is 246174659492
+The memory for this set is 6032 B
+Having used stack for 0.55 MB
+------------------------------------------------
+The 96 th set
+Present place is 246174653460
+The memory for this set is 6032 B
+Having used stack for 0.55 MB
+------------------------------------------------
+The 97 th set
+Present place is 246174647428
+The memory for this set is 6032 B
+Having used stack for 0.56 MB
+------------------------------------------------
+The 98 th set
+Present place is 246174641396
+The memory for this set is 6032 B
+Having used stack for 0.56 MB
+------------------------------------------------
+The 99 th set
+Present place is 246174635364
+The memory for this set is 6032 B
+Having used stack for 0.57 MB
+------------------------------------------------
+The 100 th set
+Present place is 246174629332
+The memory for this set is 6032 B
+Having used stack for 0.58 MB
+------------------------------------------------
+The 101 th set
+Present place is 246174623300
+The memory for this set is 6032 B
+Having used stack for 0.58 MB
+------------------------------------------------
+The 102 th set
+Present place is 246174617268
+The memory for this set is 6032 B
+Having used stack for 0.59 MB
+------------------------------------------------
+The 103 th set
+Present place is 246174611236
+The memory for this set is 6032 B
+Having used stack for 0.59 MB
+------------------------------------------------
+The 104 th set
+Present place is 246174605204
+The memory for this set is 6032 B
+Having used stack for 0.6 MB
+------------------------------------------------
+The 105 th set
+Present place is 246174599172
+The memory for this set is 6032 B
+Having used stack for 0.6 MB
+------------------------------------------------
+The 106 th set
+Present place is 246174593140
+The memory for this set is 6032 B
+Having used stack for 0.61 MB
+------------------------------------------------
+The 107 th set
+Present place is 246174587108
+The memory for this set is 6032 B
+Having used stack for 0.62 MB
+------------------------------------------------
+The 108 th set
+Present place is 246174581076
+The memory for this set is 6032 B
+Having used stack for 0.62 MB
+------------------------------------------------
+The 109 th set
+Present place is 246174575044
+The memory for this set is 6032 B
+Having used stack for 0.63 MB
+------------------------------------------------
+The 110 th set
+Present place is 246174569012
+The memory for this set is 6032 B
+Having used stack for 0.63 MB
+------------------------------------------------
+The 111 th set
+Present place is 246174562980
+The memory for this set is 6032 B
+Having used stack for 0.64 MB
+------------------------------------------------
+The 112 th set
+Present place is 246174556948
+The memory for this set is 6032 B
+Having used stack for 0.64 MB
+------------------------------------------------
+The 113 th set
+Present place is 246174550916
+The memory for this set is 6032 B
+Having used stack for 0.65 MB
+------------------------------------------------
+The 114 th set
+Present place is 246174544884
+The memory for this set is 6032 B
+Having used stack for 0.66 MB
+------------------------------------------------
+The 115 th set
+Present place is 246174538852
+The memory for this set is 6032 B
+Having used stack for 0.66 MB
+------------------------------------------------
+The 116 th set
+Present place is 246174532820
+The memory for this set is 6032 B
+Having used stack for 0.67 MB
+------------------------------------------------
+The 117 th set
+Present place is 246174526788
+The memory for this set is 6032 B
+Having used stack for 0.67 MB
+------------------------------------------------
+The 118 th set
+Present place is 246174520756
+The memory for this set is 6032 B
+Having used stack for 0.68 MB
+------------------------------------------------
+The 119 th set
+Present place is 246174514724
+The memory for this set is 6032 B
+Having used stack for 0.68 MB
+------------------------------------------------
+The 120 th set
+Present place is 246174508692
+The memory for this set is 6032 B
+Having used stack for 0.69 MB
+------------------------------------------------
+The 121 th set
+Present place is 246174502660
+The memory for this set is 6032 B
+Having used stack for 0.7 MB
+------------------------------------------------
+The 122 th set
+Present place is 246174496628
+The memory for this set is 6032 B
+Having used stack for 0.7 MB
+------------------------------------------------
+The 123 th set
+Present place is 246174490596
+The memory for this set is 6032 B
+Having used stack for 0.71 MB
+------------------------------------------------
+The 124 th set
+Present place is 246174484564
+The memory for this set is 6032 B
+Having used stack for 0.71 MB
+------------------------------------------------
+The 125 th set
+Present place is 246174478532
+The memory for this set is 6032 B
+Having used stack for 0.72 MB
+------------------------------------------------
+The 126 th set
+Present place is 246174472500
+The memory for this set is 6032 B
+Having used stack for 0.72 MB
+------------------------------------------------
+The 127 th set
+Present place is 246174466468
+The memory for this set is 6032 B
+Having used stack for 0.73 MB
+------------------------------------------------
+The 128 th set
+Present place is 246174460436
+The memory for this set is 6032 B
+Having used stack for 0.74 MB
+------------------------------------------------
+The 129 th set
+Present place is 246174454404
+The memory for this set is 6032 B
+Having used stack for 0.74 MB
+------------------------------------------------
+The 130 th set
+Present place is 246174448372
+The memory for this set is 6032 B
+Having used stack for 0.75 MB
+------------------------------------------------
+The 131 th set
+Present place is 246174442340
+The memory for this set is 6032 B
+Having used stack for 0.75 MB
+------------------------------------------------
+The 132 th set
+Present place is 246174436308
+The memory for this set is 6032 B
+Having used stack for 0.76 MB
+------------------------------------------------
+The 133 th set
+Present place is 246174430276
+The memory for this set is 6032 B
+Having used stack for 0.77 MB
+------------------------------------------------
+The 134 th set
+Present place is 246174424244
+The memory for this set is 6032 B
+Having used stack for 0.77 MB
+------------------------------------------------
+The 135 th set
+Present place is 246174418212
+The memory for this set is 6032 B
+Having used stack for 0.78 MB
+------------------------------------------------
+The 136 th set
+Present place is 246174412180
+The memory for this set is 6032 B
+Having used stack for 0.78 MB
+------------------------------------------------
+The 137 th set
+Present place is 246174406148
+The memory for this set is 6032 B
+Having used stack for 0.79 MB
+------------------------------------------------
+The 138 th set
+Present place is 246174400116
+The memory for this set is 6032 B
+Having used stack for 0.79 MB
+------------------------------------------------
+The 139 th set
+Present place is 246174394084
+The memory for this set is 6032 B
+Having used stack for 0.8 MB
+------------------------------------------------
+The 140 th set
+Present place is 246174388052
+The memory for this set is 6032 B
+Having used stack for 0.81 MB
+------------------------------------------------
+The 141 th set
+Present place is 246174382020
+The memory for this set is 6032 B
+Having used stack for 0.81 MB
+------------------------------------------------
+The 142 th set
+Present place is 246174375988
+The memory for this set is 6032 B
+Having used stack for 0.82 MB
+------------------------------------------------
+The 143 th set
+Present place is 246174369956
+The memory for this set is 6032 B
+Having used stack for 0.82 MB
+------------------------------------------------
+The 144 th set
+Present place is 246174363924
+The memory for this set is 6032 B
+Having used stack for 0.83 MB
+------------------------------------------------
+The 145 th set
+Present place is 246174357892
+The memory for this set is 6032 B
+Having used stack for 0.83 MB
+------------------------------------------------
+The 146 th set
+Present place is 246174351860
+The memory for this set is 6032 B
+Having used stack for 0.84 MB
+------------------------------------------------
+The 147 th set
+Present place is 246174345828
+The memory for this set is 6032 B
+Having used stack for 0.85 MB
+------------------------------------------------
+The 148 th set
+Present place is 246174339796
+The memory for this set is 6032 B
+Having used stack for 0.85 MB
+------------------------------------------------
+The 149 th set
+Present place is 246174333764
+The memory for this set is 6032 B
+Having used stack for 0.86 MB
+------------------------------------------------
+The 150 th set
+Present place is 246174327732
+The memory for this set is 6032 B
+Having used stack for 0.86 MB
+------------------------------------------------
+The 151 th set
+Present place is 246174321700
+The memory for this set is 6032 B
+Having used stack for 0.87 MB
+------------------------------------------------
+The 152 th set
+Present place is 246174315668
+The memory for this set is 6032 B
+Having used stack for 0.87 MB
+------------------------------------------------
+The 153 th set
+Present place is 246174309636
+The memory for this set is 6032 B
+Having used stack for 0.88 MB
+------------------------------------------------
+The 154 th set
+Present place is 246174303604
+The memory for this set is 6032 B
+Having used stack for 0.89 MB
+------------------------------------------------
+The 155 th set
+Present place is 246174297572
+The memory for this set is 6032 B
+Having used stack for 0.89 MB
+------------------------------------------------
+The 156 th set
+Present place is 246174291540
+The memory for this set is 6032 B
+Having used stack for 0.9 MB
+------------------------------------------------
+The 157 th set
+Present place is 246174285508
+The memory for this set is 6032 B
+Having used stack for 0.9 MB
+------------------------------------------------
+The 158 th set
+Present place is 246174279476
+The memory for this set is 6032 B
+Having used stack for 0.91 MB
+------------------------------------------------
+The 159 th set
+Present place is 246174273444
+The memory for this set is 6032 B
+Having used stack for 0.91 MB
+------------------------------------------------
+The 160 th set
+Present place is 246174267412
+The memory for this set is 6032 B
+Having used stack for 0.92 MB
+------------------------------------------------
+The 161 th set
+Present place is 246174261380
+The memory for this set is 6032 B
+Having used stack for 0.93 MB
+------------------------------------------------
+The 162 th set
+Present place is 246174255348
+The memory for this set is 6032 B
+Having used stack for 0.93 MB
+------------------------------------------------
+The 163 th set
+Present place is 246174249316
+The memory for this set is 6032 B
+Having used stack for 0.94 MB
+------------------------------------------------
+The 164 th set
+Present place is 246174243284
+The memory for this set is 6032 B
+Having used stack for 0.94 MB
+------------------------------------------------
+The 165 th set
+Present place is 246174237252
+The memory for this set is 6032 B
+Having used stack for 0.95 MB
+------------------------------------------------
+The 166 th set
+Present place is 246174231220
+The memory for this set is 6032 B
+Having used stack for 0.95 MB
+------------------------------------------------
+The 167 th set
+Present place is 246174225188
+The memory for this set is 6032 B
+Having used stack for 0.96 MB
+------------------------------------------------
+The 168 th set
+Present place is 246174219156
+The memory for this set is 6032 B
+Having used stack for 0.97 MB
+------------------------------------------------
